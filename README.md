@@ -7,11 +7,13 @@ software development and open source communities.
 
 
 - 🌱 I’m currently learning to master C# and python, 
-I'm lacking in Machine learning but am learning slowly.
+-    machine learning and SQL
 
 
 - 💞️ I’m looking to collaborate on not quite sure on what 
-projects, I would like collaborate on in the open source community 
+     projects, I would like collaborate on in the open source community.
+     Aside from helping in the open source community I am looking to complete some home projects,
+     with high goals of .Net developer role in a company.
 
 
 - 📫 How to reach me 
