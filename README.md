@@ -6,8 +6,7 @@
 software development and open source communities.
 
 
-- 🌱 I’m currently learning to master C# and python, 
--    machine learning and SQL
+- 🌱 I’m currently learning to master C# and python, machine learning and SQL
 
 
 - 💞️ I’m looking to collaborate on not quite sure on what 
